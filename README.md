@@ -73,6 +73,9 @@
 
 ### Результат
 
+<img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/041d5019-7a5a-4b04-a64c-a43300ac9f6c" />
+
+
 
 
 
