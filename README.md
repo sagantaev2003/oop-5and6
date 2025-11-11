@@ -74,6 +74,10 @@
 - **input.txt** - исходные данные.
 - **output.txt** - выходные данные
 
+### Результат
+
+<img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/3499ad9c-42d8-4d8e-a100-a280419067a0" />
+
 
 
 
