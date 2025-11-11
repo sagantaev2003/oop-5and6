@@ -56,6 +56,8 @@
 
 ### Результат
 
+<img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/19718766-dcd8-47ae-af13-aef3ec98e124" />
+
 
 
 
