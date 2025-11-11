@@ -54,8 +54,11 @@
 
 ### Результат
 
+<img width="335" height="141" alt="image" src="https://github.com/user-attachments/assets/390fd001-121c-496d-a9bd-8d4d4d9735b1" />
 
+<img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/f4986d23-5341-4921-9213-04cb07908f65" />
 
+<img width="454" height="166" alt="image" src="https://github.com/user-attachments/assets/79387b63-0006-4ac2-b887-2f9cd0313763" />
 
 ## Лабораторная работа № 6.  Бинарное дерево арифметического выражения со скобками
 
