@@ -54,9 +54,7 @@
 
 ### Результат
 
-<img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/19718766-dcd8-47ae-af13-aef3ec98e124" />
 
-<img width="469" height="170" alt="image" src="https://github.com/user-attachments/assets/cce2defc-3c2b-4498-a52f-c7357a2508cb" />
 
 
 ## Лабораторная работа № 6.  Бинарное дерево арифметического выражения со скобками
@@ -72,9 +70,7 @@
 
 ### Результат
 
-<img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/3499ad9c-42d8-4d8e-a100-a280419067a0" />
 
-<img width="1078" height="419" alt="image" src="https://github.com/user-attachments/assets/4ba943c7-b91a-4d2d-bdc9-1af0d1b0d156" />
 
 
 
